@@ -2,8 +2,8 @@
 
 echo "# Advice Laptop Price" > README.md
 echo "" >> README.md
-echo "Fetched on $(date)" >> README.md
-echo "GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)" >> README.md
+echo "- Fetched on $(date)" >> README.md
+echo "- GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)" >> README.md
 echo "" >> README.md
 echo "| Brand | Name | Spec | Price | Sale Price |" >> README.md
 echo "| - | - | - | - | - |" >> README.md
