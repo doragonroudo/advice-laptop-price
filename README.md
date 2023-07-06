@@ -1,7 +1,7 @@
 # Advice Laptop Price
 
-Fetched on Thu Jul  6 15:07:06 UTC 2023
-GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
+- Fetched on Thu Jul  6 15:09:33 UTC 2023
+- GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
 | - | - | - | - | - |
