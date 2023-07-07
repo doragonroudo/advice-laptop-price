@@ -1,6 +1,6 @@
 # Advice Laptop Price
 
-- Fetched on Thu Jul  6 15:09:33 UTC 2023
+- Fetched on Fri Jul  7 01:02:43 UTC 2023
 - GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
@@ -16,6 +16,7 @@
 | HP | [Notebook HP Victus Gaming 15-fb0083AX (Performance Blue)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-gaming-15-fb0083ax-performance-blue-) | 15.6 inch / AMD Ryzen 7 5800H / 8GB DDR4 / 512GB SSD / GeForce RTX 3050 Ti 4GB GDDR6 / Win 11 | 27900 | 26990 |
 | HP | [Notebook HP Victus Gaming 15-fa1021TX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-gaming-15-fa1021tx-mica-silver-) | 15.6 inch / Intel i7-13700H / 16GB DDR4 / 512GB SSD / GeForce RTX 3050 6GB GDDR6 / Win 11 | 41900 | 40490 |
 | DELL | [Notebook DELL Gaming G15-W566311300TH (Specter Green with Camouflage)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-dell/notebook-dell-gaming-g15-w566311300th-specter-green-with-camouflage-) | 15.6 inch / Intel i5-12500H / 8GB DDR5 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 28900 | 27790 |
+| DELL | [Notebook DELL Gaming G15-W566311300TH (Dark Shadow Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-dell/notebook-dell-gaming-g15-w566311300th-dark-shadow-grey-) | 15.6 inch / Intel i5-12500H / 8GB DDR5 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 28900 | 27790 |
 | DELL | [Notebook DELL Gaming G15-W566311000M2CTH (Dark Shadow Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-dell/notebook-dell-gaming-g15-w566311000m2cth-dark-shadow-grey-) | 15.6 inch / Intel i5-12500H / 16GB DDR5 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 29900 | 28690 |
 | DELL | [Notebook DELL Gaming G15R-W566311600ATH (Specter Green with Camouflage)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-dell/notebook-dell-gaming-g15r-w566311600ath-specter-green-with-camouflage-) | 15.6 inch / AMD Ryzen 7 6800H / 16GB DDR5 / 512GB SSD / GeForce RTX 3050 Ti 4GB GDDR6 / Win 11 | 40900 | 39390 |
 | DELL | [Notebook DELL Gaming G15R-W566311600ATH (Dark Shadow Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-dell/notebook-dell-gaming-g15r-w566311600ath-dark-shadow-grey-) | 15.6 inch / AMD Ryzen 7 6800H / 16GB DDR5 / 512GB SSD / GeForce RTX 3050 Ti 4GB GDDR6 / Win 11 | 40900 | 39390 |
@@ -82,7 +83,6 @@
 | ASUS | [Notebook Asus TUF Gaming A17 FA706ICB-HX063W (Graphite Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-tuf-gaming-a17-fa706icb-hx063w-graphite-black-) | 17.3 inch / AMD Ryzen 7 4800H / 8GB DDR4 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 30990 | 30990 |
 | ASUS | [Notebook Asus ROG Strix G17 G713RC-HX032W  (Eclip Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-rog-strix-g17-g713rc-hx032w-eclip-gray-) | 17.3 inch / AMD Ryzen 7 6800H / 16GB DDR5 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 38990 | 38990 |
 | ASUS | [Notebook Asus TUF Gaming F17 FX707ZC4-HX035W (Mecha Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-tuf-gaming-f17-fx707zc4-hx035w-mecha-gray-) | 17.3 inch / Intel i7-12700H / 16GB DDR4 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 39990 | 39990 |
-| ASUS | [Notebook Asus TUF Gaming F17 FX707ZE-HX066W (Mecha Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-tuf-gaming-f17-fx707ze-hx066w-mecha-gray-) | 17.3 inch / Intel i7-12700H / 16GB DDR5 / 512GB SSD / GeForce RTX 3050 Ti 4GB GDDR6 / Win 11 | 40990 | 40990 |
 | ASUS | [Notebook Asus TUF Gaming F17 FX707ZU4-HX019W (Mecha Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-tuf-gaming-f17-fx707zu4-hx019w-mecha-gray-) | 17.3 inch / Intel i7-12700H / 16GB DDR4 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 45990 | 45990 |
 | ASUS | [Notebook Asus ROG Strix G17 GL743RM-LL146W (Eclip Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-rog-strix-g17-gl743rm-ll146w-eclip-gray-) | 17.3 inch / AMD Ryzen 9 6900HX / 32GB DDR5 / 1TB SSD / GeForce RTX 3060 6GB GDDR6 / Win 11 | 53990 | 53990 |
 | ASUS | [Notebook Asus ROG Strix G17 G713PU-LL043W (Eclip Gray)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-asus/notebook-asus-rog-strix-g17-g713pu-ll043w-eclip-gray-) | 17.3 inch / AMD Ryzen 9 7845HX / 16GB DDR5 / 1TB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 54990 | 54990 |
