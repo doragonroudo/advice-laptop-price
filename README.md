@@ -1,6 +1,6 @@
 # Advice Laptop Price
 
-- Fetched on Sun Aug 13 00:41:27 UTC 2023
+- Fetched on Mon Aug 14 00:40:13 UTC 2023
 - GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
@@ -60,13 +60,11 @@
 | MSI | [Notebook MSI GF63 Thin 12VF-248TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-gf63-thin-12vf-248th-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR4 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 37900 | 37900 |
 | MSI | [Notebook MSI Cyborg 15 A12VF-010TH (Translucent Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-cyborg-15-a12vf-010th-translucent-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 40900 | 40900 |
 | MSI | [Notebook Bravo 15 C7VFK-097TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-bravo-15-c7vfk-097th-black-) | 15.6 inch / AMD Ryzen 7 7735HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 42900 | 42900 |
-| MSI | [Notebook MSI Katana 15 B13VGK-1087TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-katana-15-b13vgk-1087th-black-) | 15.6 inch / Intel i7-13620H / 16GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 57900 | 57900 |
 | MSI | [Notebook MSI Katana 15 B13VGK-1421TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-katana-15-b13vgk-1421th-black-) | 15.6 inch / Intel i9-13900H / 16GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 57900 | 57900 |
 | LENOVO | [Notebook Lenovo IdeaPad Gaming3 16IAH7 82SA001KTA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-ideapad-gaming3-16iah7-82sa001kta-onyx-grey-) | 16.0 inch / Intel i5-12500H / 16GB DDR4 / 512GB SSD / GeForce RTX 3060 6GB GDDR6 / Win 11 | 36900 | 35790 |
 | LENOVO | [Notebook Lenovo LOQ 16IRH8 82XW0049TA (Storm Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-loq-16irh8-82xw0049ta-storm-grey-) | 16.0 inch / Intel i5-13420H / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 39900 | 38490 |
 | LENOVO | [Notebook Lenovo LOQ 16APH8 82XU0027TA (Storm Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-loq-16aph8-82xu0027ta-storm-grey-) | 16.0 inch / AMD Ryzen 5 7640HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 39900 | 38190 |
 | LENOVO | [Notebook Lenovo Legion5 16IRX8 82WK0013TA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion5-16irx8-82wk0013ta-onyx-grey-) | 16.0 inch / Intel i7-13700HX / 16GB DDR5 / 1TB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 62900 | 60090 |
-| LENOVO | [Notebook Lenovo Legion Pro5 16ARX8 82WM008BTA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion-pro5-16arx8-82wm008bta-onyx-grey-) | 16.0 inch / AMD Ryzen 9 7945HX / 32GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 79900 | 76990 |
 | LENOVO | [Notebook Lenovo Legion Pro7 16IRX8H 82WQ000JTA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion-pro7-16irx8h-82wq000jta-onyx-grey-) | 16.0 inch / Intel i9-13900HX / 32GB DDR5 / 1TB SSD / GeForce RTX 4080 12GB GDDR6 / Win 11 | 111900 | 107290 |
 | LENOVO | [Notebook Lenovo IdeaPad Gaming3 15ACH6 82K2023ETA (Shadow Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-ideapad-gaming3-15ach6-82k2023eta-shadow-black-) | 15.6 inch / AMD Ryzen 5 5600H / 8GB DDR4 / 512GB SSD / GeForce GTX 1650 4GB GDDR6 / Win 11 | 21900 | 20990 |
 | LENOVO | [Notebook Lenovo IdeaPad Gaming3 15ARH7 82SB00JETA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-ideapad-gaming3-15arh7-82sb00jeta-onyx-grey-) | 15.6 inch / AMD Ryzen 5 7535HS / 8GB DDR5 / 512GB SSD / GeForce RTX 2050 4GB GDDR6 / Win 11 | 25900 | 24890 |
