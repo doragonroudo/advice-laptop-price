@@ -1,13 +1,11 @@
 # Advice Laptop Price
 
-- Fetched on Sat Dec 30 00:42:12 UTC 2023
+- Fetched on Sun Dec 31 00:47:42 UTC 2023
 - GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
 | - | - | - | - | - |
 | HP | [Notebook HP Victus 16-e1112AX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-16-e1112ax-mica-silver-) | 16.1 inch / AMD Ryzen 5 6600H / 8GB DDR5 / 512GB SSD / GeForce RTX 3050 Ti 4GB GDDR6 / Win 11 | 25900 | 23900 |
-| HP | [Notebook HP Victus 16-r0133TX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-16-r0133tx-mica-silver-) | 16.1 inch / Intel i5-13500HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 36900 | 34690 |
-| HP | [Notebook HP Victus 16-S0080AX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-16-s0080ax-mica-silver-) | 16.1 inch / AMD Ryzen 7 7840HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 37900 | 35790 |
 | HP | [Notebook HP Omen Transcend 16-u0054TX (Shadow Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-omen-transcend-16-u0054tx-shadow-black-) | 16.0 inch / Intel i9-13900HX / 32GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 89900 | 79990 |
 | HP | [Notebook HP Victus 15-fb1010AX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-15-fb1010ax-mica-silver-) | 15.6 inch / AMD Ryzen 5 7535HS / 16GB DDR5 / 512GB SSD / GeForce RTX 2050 4GB GDDR6 / Win 11 | 23900 | 22790 |
 | HP | [Notebook HP Victus 15-fa1024TX (Mica Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-hp/notebook-hp-victus-15-fa1024tx-mica-silver-) | 15.6 inch / Intel i5-13420H / 8GB DDR4 / 512GB SSD / GeForce RTX 2050 4GB GDDR6 / Win 11 | 24900 | 23690 |
@@ -23,7 +21,6 @@
 | Gigabyte | [Notebook Gigabyte AORUS 15X ASF-B3TH754SH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-gigabyte/notebook-gigabyte-aorus-15x-asf-b3th754sh-black-) | 15.6 inch / Intel i9-13900HX / 16GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 74900 | 74900 |
 | Gigabyte | [Notebook Gigabyte AERO 14 OLED BMF-72THBB4SH (Twilight Silver)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-gigabyte/notebook-gigabyte-aero-14-oled-bmf-72thbb4sh-twilight-silver-) | 14.0 inch / Intel i7-13700H / 16GB LPDDR5 / 1TB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 54900 | 54900 |
 | MSI | [Notebook MSI Katana 17 B13VEK-1008TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-katana-17-b13vek-1008th-black-) | 17.3 inch / Intel i7-13620H / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 42990 | 42990 |
-| MSI | [Notebook MSI Katana B13VFK-1007TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-katana-b13vfk-1007th-black-) | 17.3 inch / Intel i7-13620H / 16GB DDR5 / 1TB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 46990 | 46990 |
 | MSI | [Notebook MSI Raider GE78HX 13VH-484TH (Core Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-raider-ge78hx-13vh-484th-core-black-) | 17.0 inch / Intel i9-13980HX / 32GB DDR5 / 2TB SSD / GeForce RTX 4080 12GB GDDR6 / Win 11 | 99990 | 99990 |
 | MSI | [Notebook MSI Stealth 16Studio A13VF-221TH (Star Blue)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-stealth-16studio-a13vf-221th-star-blue-) | 16.0 inch / Intel i9-13900H / 32GB DDR5 / 1TB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 59990 | 59990 |
 | MSI | [Notebook MSI Stealth 16Studio A13VG-410TH (Star Blue)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-stealth-16studio-a13vg-410th-star-blue-) | 16.0 inch / Intel i9-13900H / 32GB DDR5 / 2TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 79990 | 79990 |
