@@ -1,6 +1,6 @@
 # Advice Laptop Price
 
-- Fetched on Sun Jan 21 00:50:16 UTC 2024
+- Fetched on Mon Jan 22 00:48:12 UTC 2024
 - GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
@@ -56,7 +56,6 @@
 | MSI | [Notebook MSI Cyborg 15 A12VE-627TH (Translucent Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-cyborg-15-a12ve-627th-translucent-black-) | 15.6 inch / Intel i5-12450H / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 32990 | 32990 |
 | MSI | [Notebook MSI Katana 15 B12VGK-1639TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-katana-15-b12vgk-1639th-black-) | 15.6 inch / Intel i5-12450H / 16GB DDR5 / 1TB SSD / GeForce RTX 4070 8GB GDDR6 / Win 11 | 43990 | 43990 |
 | MSI | [Notebook MSI Thin GF63 12UC-1091TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-thin-gf63-12uc-1091th-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR4 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 28490 | 28490 |
-| MSI | [Notebook MSI GF63 Thin 12VE-046TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-gf63-thin-12ve-046th-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR4 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 30990 | 30990 |
 | MSI | [Notebook MSI GF63 Thin 12VF-248TH (Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-gf63-thin-12vf-248th-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR4 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 33990 | 33990 |
 | MSI | [Notebook MSI Cyborg 15 A12VE-626TH (Translucent Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-cyborg-15-a12ve-626th-translucent-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 34990 | 34990 |
 | MSI | [Notebook MSI Cyborg 15 A12VF-623TH (Translucent Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-msi/notebook-msi-cyborg-15-a12vf-623th-translucent-black-) | 15.6 inch / Intel i7-12650H / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 36990 | 36990 |
