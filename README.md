@@ -1,6 +1,6 @@
 # Advice Laptop Price
 
-- Fetched on Sat Feb 17 00:41:07 UTC 2024
+- Fetched on Sun Feb 18 00:44:32 UTC 2024
 - GitHub Sort Content: [LINK](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content)
 
 | Brand | Name | Spec | Price | Sale Price |
@@ -81,12 +81,10 @@
 | LENOVO | [Notebook Lenovo Legion 5 15IAH7H 82RB00Q0TA (Storm Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion-5-15iah7h-82rb00q0ta-storm-grey-) | 15.6 inch / Intel i5-12500H / 16GB DDR5 / 512GB SSD / GeForce RTX 3060 6GB GDDR6 / Win 11 | 39990 | 34990 |
 | LENOVO | [Notebook Lenovo IdeaPad Gaming 3 15IAH7 82S900WMTA (Onyx Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-ideapad-gaming-3-15iah7-82s900wmta-onyx-grey-) | 15.6 inch / Intel i7-12650H / 8GB DDR4 / 512GB SSD / GeForce RTX 3050 4GB GDDR6 / Win 11 | 31990 | 31090 |
 | Lenovo | [Notebook Lenovo LOQ 15IRX9 83DV003ATA (Luna Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-loq-15irx9-83dv003ata-luna-grey-) | 15.6 inch / Intel i7-13650HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 38990 | 37790 |
-| Lenovo | [Notebook Lenovo LOQ 15IRX9 83DV003BTA (Luna Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-loq-15irx9-83dv003bta-luna-grey-) | 15.6 inch / Intel i7-13650HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 42990 | 41590 |
 | Lenovo | [Notebook Lenovo Legion 5 15IAH7H 82RB00A1TA (Storm Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion-5-15iah7h-82rb00a1ta-storm-grey-) | 15.6 inch / Intel i7-12700H / 16GB DDR5 / 512GB SSD / GeForce RTX 3060 6GB GDDR6 / Win 11 | 42990 | 36990 |
 | LENOVO | [Notebook Lenovo Legion 5 15IAH7H 82RB00Q5TA (Storm Grey)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-lenovo/notebook-lenovo-legion-5-15iah7h-82rb00q5ta-storm-grey-) | 15.6 inch / Intel i7-12700H / 16GB DDR5 / 512GB SSD / GeForce RTX 3070 8GB GDDR6 / Win 11 | 64990 | 62790 |
 | ACER | [Notebook Acer Nitro 16 AN16-41-R4ZR (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-nitro-16-an16-41-r4zr-obsidian-black-) | 16.0 inch / AMD Ryzen 5 7640HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 29900 | 29900 |
 | ACER | [Notebook Acer Predator Helios Neo 16 PHN16-71-58MD (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-predator-helios-neo-16-phn16-71-58md-obsidian-black-) | 16.0 inch / Intel i5-13500HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 37900 | 37900 |
-| ACER | [Notebook Acer Predator Helios Neo 16 PHN16-71-57QT (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-predator-helios-neo-16-phn16-71-57qt-obsidian-black-) | 16.0 inch / Intel i5-13500HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 42900 | 42900 |
 | ACER | [Notebook Acer Nitro 16 AN16-41-R6VJ (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-nitro-16-an16-41-r6vj-obsidian-black-) | 16.0 inch / AMD Ryzen 7 7840HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 32900 | 32900 |
 | ACER | [Notebook Acer Predator Helios Neo 16 PHN16-71-78P1 (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-predator-helios-neo-16-phn16-71-78p1-obsidian-black-) | 16.0 inch / Intel i7-13700HX / 16GB DDR5 / 512GB SSD / GeForce RTX 4050 6GB GDDR6 / Win 11 | 39900 | 39900 |
 | ACER | [Notebook Acer Nitro 16 AN16-41-R846 (Obsidian Black)](https://www.advice.co.th/product/notebook-gaming/notebook-gaming-acer/notebook-acer-nitro-16-an16-41-r846-obsidian-black-) | 16.0 inch / AMD Ryzen 7 7840HS / 16GB DDR5 / 512GB SSD / GeForce RTX 4060 8GB GDDR6 / Win 11 | 40900 | 40900 |
